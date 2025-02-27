@@ -10,6 +10,6 @@ void printNum(int n){
 }
 
 int main(){
-    printNum(5);
+    printNum(50);
     return 0;
 }

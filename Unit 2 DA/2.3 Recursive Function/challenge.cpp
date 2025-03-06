@@ -15,8 +15,8 @@ int fibonacci(int n) {
     return curr;
 }
 int main() {
-    int n = 10;
+    int n = 7;
     int result = fibonacci(n);
-    cout << "The " << n << "th Fibonacci number is: " << result << endl;
+    cout << "The " << n << "th Fibonacci number is " << result << endl;
     return 0;
 }
